@@ -1,0 +1,69 @@
+section {
+  padding-top: 5rem;
+}
+.jumbotron {
+  padding: 6rem 1rem;
+  background-color: #78938a;
+  color: #f1ddbf;
+}
+
+#About {
+  background-color: #78938a;
+  color: #f1ddbf;
+  font-family: "Akshar", sans-serif;
+}
+
+#Project {
+  background-color: #78938a;
+  color: #525e75;
+}
+
+#Contact {
+  padding-top: 6rem;
+  background-color: #78938a;
+  color: #f1ddbf;
+}
+
+.email {
+  width: 50px;
+}
+.phone {
+  width: 50px;
+}
+.linkedin {
+  width: 50px;
+}
+
+.nav-link {
+  font-family: "Akshar", sans-serif;
+  color: #f1ddbf;
+}
+
+nav {
+  background-color: #78938a;
+}
+h2,
+h5,
+p {
+  font-family: "Akshar", sans-serif;
+}
+
+h1 {
+  font-family: "Varela Round", sans-serif;
+}
+
+.rounded-circle {
+  background-color: #f1ddbf;
+  border-width: 0px;
+}
+
+.card-body {
+  background-color: #bfd8d0;
+}
+
+footer {
+  padding: 1rem;
+  text-align: center;
+  background-color: #92ba92;
+  color: #f1ddbf;
+}
